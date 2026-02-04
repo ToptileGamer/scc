@@ -10,7 +10,7 @@ const OrderConfirmation = () => {
       <section className="checkout-page">
         <div className="empty-state">
           <h3>No order found</h3>
-          <p>Looks like you haven’t placed an order yet.</p>
+          <p>Look like you haven’t placed an order yet.</p>
           <Link to="/products" className="hero-btn">
             Shop the Collection
           </Link>
